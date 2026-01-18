@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdQm9d2KHcs=",
+  "success": true,
+  "projectFilePath": "/home/carbon.dev/Desktop/Projects/first-project/CarbonAPI/CarbonAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/carbon.dev/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
