@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/carbon.dev/Desktop/Projects/first-project/CarbonAPI/CarbonAPI.csproj",
+      "projectUniqueName": "/home/carbon.dev/Desktop/Projects/first-project/Horse-API/CarbonAPI.csproj",
       "projectName": "CarbonAPI",
-      "projectPath": "/home/carbon.dev/Desktop/Projects/first-project/CarbonAPI/CarbonAPI.csproj",
+      "projectPath": "/home/carbon.dev/Desktop/Projects/first-project/Horse-API/CarbonAPI.csproj",
       "packagesPath": "/home/carbon.dev/.nuget/packages/",
-      "outputPath": "/home/carbon.dev/Desktop/Projects/first-project/CarbonAPI/obj/",
+      "outputPath": "/home/carbon.dev/Desktop/Projects/first-project/Horse-API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/carbon.dev/.nuget/NuGet/NuGet.Config"

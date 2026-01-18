@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sdQm9d2KHcs=",
+  "dgSpecHash": "aNze1At3Lrc=",
   "success": true,
-  "projectFilePath": "/home/carbon.dev/Desktop/Projects/first-project/CarbonAPI/CarbonAPI.csproj",
+  "projectFilePath": "/home/carbon.dev/Desktop/Projects/first-project/Horse-API/CarbonAPI.csproj",
   "expectedPackageFiles": [
     "/home/carbon.dev/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
   ],
