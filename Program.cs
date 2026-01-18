@@ -37,6 +37,5 @@ app.MapGet("/random", (ILogger<Program> logger) =>
 });
 
 // GET
-app.MapGet("foo", () => "bar");
-
-app.Run("http://0.0.0.0:5000");
+app.MapGet("/foo", () => "bar");
+app.Run("http://0.0.0.0:8080");
